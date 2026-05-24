@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Sameer07-web&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Mohammad Sameer</h1>
 <h3 align="center">Final Year CSE Student | Aspiring Software Engineer</h3>
 
