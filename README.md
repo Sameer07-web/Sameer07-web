@@ -56,3 +56,18 @@
 </p>
 
 ---
+### 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/mohammadsameer007/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://github.com/Sameer07-web" target="blank">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+
+---
