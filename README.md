@@ -49,3 +49,10 @@
 </p>
 
 ---
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sameer07-web&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
