@@ -27,3 +27,14 @@
 </p>
 
 ---
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sameer07-web&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer07-web&theme=tokyonight" />
+</p>
+
+---
