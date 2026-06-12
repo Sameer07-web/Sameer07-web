@@ -2,27 +2,47 @@
   <img src="https://komarev.com/ghpvc/?username=Sameer07-web&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Mohammad Sameer</h1>
+<h1 align="center">Mohammad Sameer</h1>
 
 <h3 align="center">
-Software Engineer | Backend Developer | Full Stack Developer
+Backend Engineer • Full Stack Developer • Java & Spring Boot
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+%7C+Spring+Boot+Developer;Backend+Engineering+%26+Distributed+Systems;Apache+Kafka+%7C+Microservices;MERN+Stack+Developer;Building+Scalable+Applications" />
+  <a href="https://www.linkedin.com/in/mohammadsameer007/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mohammadsameer1077@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://sameer-portfolio-gules.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Backend+Engineering+%7C+Java+%7C+Spring+Boot;Distributed+Systems+%7C+Apache+Kafka;Microservices+%7C+System+Design;Full+Stack+Development+%7C+MERN;Building+Production-Ready+Applications" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Final Year B.Tech CSE Student at Sreenidhi Institute of Science and Technology (SNIST)
-* 💻 Passionate about Backend Engineering, Distributed Systems, and Full Stack Development
-* ⚙️ Building scalable applications using Java, Spring Boot, Apache Kafka, Node.js, React, and MongoDB
-* 📚 Solved 300+ DSA problems across LeetCode and MentorPick
-* 🏆 Completed JPMorgan Chase Software Engineering Virtual Experience
-* 🌐 Portfolio: https://sameer-portfolio-gules.vercel.app
-* 📫 Reach me at: **[mohammadsameer1077@gmail.com](mailto:mohammadsameer1077@gmail.com)**
+I'm a Final Year B.Tech Computer Science student at **Sreenidhi Institute of Science and Technology (SNIST)** passionate about **Backend Engineering, Distributed Systems, and Full Stack Development**.
+
+I enjoy designing scalable applications, building real-world software systems, and solving engineering problems using modern technologies such as **Java, Spring Boot, Apache Kafka, React, Node.js, MongoDB, Redis, and Docker**.
+
+Currently focused on strengthening backend development, distributed architectures, system design fundamentals, and software engineering interview preparation.
+
+---
+
+## 🎯 Current Focus
+
+* Building scalable backend systems using Spring Boot and Apache Kafka
+* Developing production-grade full stack applications
+* Strengthening Data Structures & Algorithms
+* Learning System Design and distributed architecture patterns
+* Preparing for Software Engineering roles
 
 ---
 
@@ -34,21 +54,21 @@ Java • Python • JavaScript • SQL • C
 
 ### Backend
 
-Spring Boot • Spring Security • Node.js • Express.js • Apache Kafka • REST APIs • Microservices
+Spring Boot • Spring Security • REST APIs • Microservices • Apache Kafka • Node.js • Express.js
 
 ### Frontend
 
-React.js • HTML5 • CSS3
+React.js • HTML5 • CSS3 • JavaScript
 
 ### Databases
 
-MySQL • MongoDB • Redis • H2
+MySQL • MongoDB • Redis • H2 Database
 
-### Tools & DevOps
+### DevOps & Tools
 
-Docker • Git • GitHub • Maven • Postman • Spring Data JPA
+Docker • Git • GitHub • Maven • Postman • Vercel
 
-### Core CS
+### Computer Science Fundamentals
 
 Data Structures & Algorithms • OOP • DBMS • Operating Systems • Computer Networks
 
@@ -58,64 +78,78 @@ Data Structures & Algorithms • OOP • DBMS • Operating Systems • Computer
 
 ### 🚀 Event-Driven E-Commerce Platform
 
-Spring Boot • Apache Kafka • Microservices • Docker
+**Spring Boot • Apache Kafka • Microservices • Docker**
 
-* Distributed e-commerce backend with event-driven communication.
-* Kafka-based asynchronous messaging between Order, Inventory, and Payment services.
-* Dockerized microservices architecture.
+* Designed an event-driven microservices architecture.
+* Implemented asynchronous communication using Apache Kafka.
+* Integrated Order, Inventory, and Payment services through event streaming.
+* Focused on scalability, loose coupling, and fault-tolerant design.
 
-### 🤖 ResuMate AI
+### 🤖 CareerMate AI
 
-MERN Stack • Gemini AI • MongoDB Atlas
+**React Native • Spring Boot • MongoDB • AI Integration**
 
-* AI-powered ATS scoring and resume analysis platform.
-* Personalized interview preparation and skill-gap analysis.
-* Secure authentication and analytics dashboard.
+* AI-powered career guidance and interview preparation platform.
+* Resume analysis, career recommendations, and interview readiness features.
+* Mobile-first architecture with intelligent career assistance.
+* Built to support students preparing for placements.
 
 ### 🔐 AuthSphere IAM Platform
 
-MERN Stack • JWT • Redis • RBAC
+**MERN Stack • JWT • Redis • RBAC**
 
-* Enterprise Identity and Access Management platform.
-* JWT authentication, RBAC authorization, refresh token rotation.
-* Redis-powered session and token management.
+* Enterprise-grade Identity and Access Management platform.
+* Secure authentication with JWT and refresh token rotation.
+* Redis-backed session management.
+* Role-Based Access Control and audit logging.
+
+### 🌐 Personal Portfolio
+
+**React.js • Vercel**
+
+* Professional developer portfolio showcasing projects and technical skills.
+* Responsive design with recruiter-focused presentation.
+* Optimized deployment and performance.
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements
+
+* Solved 300+ Data Structures & Algorithms problems
+* Completed JPMorgan Chase Software Engineering Virtual Experience
+* Built multiple backend, full stack, and distributed systems projects
+* Consistently improving software engineering and system design skills
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sameer07-web&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sameer07-web&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer07-web&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer07-web&theme=tokyonight" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer07-web&layout=compact&theme=tokyonight" />
-</p>
+## 📌 Featured Repositories
+
+* Event-Driven E-Commerce Platform
+* CareerMate AI
+* AuthSphere IAM Platform
+* Developer Portfolio
+* Data Structures & Algorithms Roadmap
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/mohammadsameer007/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://github.com/Sameer07-web">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://sameer-portfolio-gules.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</p>
+* LinkedIn: https://www.linkedin.com/in/mohammadsameer007/
+* Portfolio: https://sameer-portfolio-gules.vercel.app
+* GitHub: https://github.com/Sameer07-web
+* Email: [mohammadsameer1077@gmail.com](mailto:mohammadsameer1077@gmail.com)
 
 ---
 
-⭐ Focus Areas: Backend Engineering • Distributed Systems • Microservices • Full Stack Development
+### Focus Areas
+
+**Backend Engineering • Distributed Systems • Apache Kafka • Microservices • Full Stack Development • System Design**
