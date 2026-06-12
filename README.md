@@ -152,4 +152,4 @@ Data Structures & Algorithms • OOP • DBMS • Operating Systems • Computer
 
 ### Focus Areas
 
-**Backend Engineering • Distributed Systems • Apache Kafka • Microservices • Full Stack Development • System Design**
+**Backend Engineering • Apache Kafka • Full Stack Development • System Design**
